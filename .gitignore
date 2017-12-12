@@ -28,3 +28,7 @@ npm-debug.log
 # OSX
 #
 .DS_Store
+
+*.sql
+*.gz
+*.zip
