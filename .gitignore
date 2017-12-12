@@ -32,3 +32,5 @@ npm-debug.log
 *.sql
 *.gz
 *.zip
+
+.python-version
